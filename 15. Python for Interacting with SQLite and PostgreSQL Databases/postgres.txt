@@ -1,0 +1,3 @@
+postgres
+password
+5432

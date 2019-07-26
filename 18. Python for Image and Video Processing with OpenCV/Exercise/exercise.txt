@@ -1,0 +1,4 @@
+Write a script that resizes all images in a directory to 100x100. For your convenience, you can find attached a ZIP file with some images in the Resources.
+Resources for this lecture
+
+    sample_images.zip 
